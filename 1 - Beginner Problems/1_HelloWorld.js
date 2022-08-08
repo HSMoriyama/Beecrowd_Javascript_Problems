@@ -3,4 +3,5 @@
 * Neste primeiro problema, tudo que deve fazer é imprimir a mensagem "Hello World" na tela.
 */
 
+/*CODE AREA(ÁREA DE CÓDIGO)*/
 console.log("Hello World!");
