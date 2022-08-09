@@ -17,7 +17,7 @@ Output
 *Entrada
 * A entrada será 4 valores inteiros.
 
-*Sáida
+*Saída
 * Imprima DIFERENÇA com letras maiusculas, de acordo com o seguinte exemplo 
 * com espaço em branco antes e depois do sinal de igual.
 */

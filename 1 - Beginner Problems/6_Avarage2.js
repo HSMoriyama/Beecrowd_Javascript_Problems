@@ -19,7 +19,7 @@
 *Entrada
 * A entrada será 3 valores do tipo ponto flutuante (double) com 1 casa decimal após a vírgula.
 
-*Output
+*Saída
 * Imprima a menssagem "MEDIA" e a média do estudante de acordo com o exemplo a seguir, 
 * com um espaço em branco antes e depois do sinal de igual.
 */

@@ -16,7 +16,7 @@
 *Entrada
 * A entrada serão 2 números do tipo int.
 
-*Sáida
+*Saída
 * Imprima a mensagem "PROD", com um espaço em branco antes e depois do sinal de igual.
 */
 

@@ -22,7 +22,7 @@
 *Entrada
 * A entrada é do tipo ponto flutuante (double), qual é a variável R.
 
-*Sáida
+*Saída
 * Imprima a mensagem da seguinte forma "A=" em seguida o valor da variável com 
 * 4 casas decimais ápos a vírgula.
 */

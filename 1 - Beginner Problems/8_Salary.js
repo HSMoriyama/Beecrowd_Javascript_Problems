@@ -25,7 +25,7 @@
 * A entrada será 2 números do tipo int e 1 valor do tipo ponto flutuante, representando o número do funcionário,
 * quantidade de horas trabalhadas e o valor que o funcionário recebe por horas trabalhadas.
 
-*Sáida
+*Saída
 * Imprima o número e o sálario do funcionário, de acordo com o exemplo, com um espaço em branco antes e depois do 
 * sinal de igual.
 */

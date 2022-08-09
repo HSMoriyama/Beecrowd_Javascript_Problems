@@ -20,7 +20,7 @@
 *Entrada
 * A entrada serão dois números do tipo int.
 
-*Sáida
+*Saída
 * Imprima a mensagem "SOMA" em letras maiúsculas, com espaços em branco 
 * antes e depois do simbolo de igual, e em seguida o resultado da soma de A e B.
 */

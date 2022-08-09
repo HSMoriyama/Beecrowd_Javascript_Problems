@@ -21,11 +21,12 @@
 * A entrada será 2 valores do tipo int e um valor do tipo ponto flutuante, com 2 casas decimais após a
 * vírgula.
 
-*Sáida
+*Saída
 * A sáida deve ser uma mensagem como no exemplo a seguir, "Valor a pagar". Nâo esqueça do espaço depois dos
 * simbolos ":" e depois de "R$". O valor deve ser mostrado com 2 casas decimais após a vírgula.
 */
 
+/*CODE AREA(ÁREA DE CÓDIGO)*/
 var product1Code = 15;
 var product1Units = 5;
 var product1PricePerUnit = 5.35;

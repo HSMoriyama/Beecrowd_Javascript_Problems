@@ -20,7 +20,7 @@
 * A entrada será, um dado de tipo textual (o nome do funcionário), e 2 valores do tipo double, que 
 * são o sálario do vendedor e o valor total em vendas feitas por ele. 
 
-*Sáida
+*Saída
 * Imprima o sálario total do vendedor.
 */
 
