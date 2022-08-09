@@ -16,7 +16,7 @@
 *Entrada
 * A entrada será 2 números inteiros.
 *
-*Sáida
+*Saída
 * Iprima a letra X (Maúscula), com um espaço em branco antes e depois do sinal de igual, imprimindo o valor de X em seguida.
 */
 
